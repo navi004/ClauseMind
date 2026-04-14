@@ -1,0 +1,7 @@
+google-genai
+groq
+python-dotenv
+sentence-transformers
+faiss-cpu
+PyPDF2
+numpy
